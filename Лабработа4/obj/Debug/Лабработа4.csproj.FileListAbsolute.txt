@@ -1,0 +1,10 @@
+C:\Users\Владимир\source\repos\Лабработа4\obj\Debug\Лабработа4.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Лабработа4\obj\Debug\Лабработа4.Form1.resources
+C:\Users\Владимир\source\repos\Лабработа4\obj\Debug\Лабработа4.Properties.Resources.resources
+C:\Users\Владимир\source\repos\Лабработа4\obj\Debug\Лабработа4.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\Лабработа4\obj\Debug\Лабработа4.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Лабработа4\bin\Debug\Лабработа4.exe.config
+C:\Users\Владимир\source\repos\Лабработа4\bin\Debug\Лабработа4.exe
+C:\Users\Владимир\source\repos\Лабработа4\bin\Debug\Лабработа4.pdb
+C:\Users\Владимир\source\repos\Лабработа4\obj\Debug\Лабработа4.exe
+C:\Users\Владимир\source\repos\Лабработа4\obj\Debug\Лабработа4.pdb
